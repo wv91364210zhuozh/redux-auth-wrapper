@@ -58,7 +58,7 @@
     "sinon": "8.0.2"
   },
   "dependencies": {
-    "hoist-non-react-statics": "^3.3.0",
+    "hoist-non-react-statics": "^3.3.2",
     "invariant": "^2.2.4",
     "lodash.isempty": "^4.4.0",
     "query-string": "^6.9.0"
